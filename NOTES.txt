@@ -1,0 +1,7 @@
+ check mailtrap for a/c pstylezygb@yahoo.com
+
+run backend (npm run prod ) and frontend(npm start) then test frontend by going to localhost 3000 inspect and youll see redux
+
+working with cloudinary accont for patrickmangara@yahoo
+
+vid at folder 20 vid 1 stuck 
